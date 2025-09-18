@@ -1,2 +1,2 @@
 # PunishPlayer
-a minecraft plugin for punishing cheaters and grifers
+a minecraft plugin for punishing cheaters and grifers (wont get update)
